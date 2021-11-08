@@ -1,0 +1,56 @@
+body {
+  font-size:20px;
+  text-align:center;
+}
+#kiri {
+  margin-right:5px;
+  margin-bottom:5px;
+  height:200px;
+  float:left;
+  width:280px;
+  
+}
+#konten {
+  font-size:15px;
+  text-align: center;
+  height:200px;
+  float: left;
+  width:560px;
+  
+}
+#kanan {
+  margin-left:5px;
+  margin-bottom:5px;
+  height:200px;
+  float: left;
+  width:280px;
+
+}
+#bawah1{
+  clear:both; 
+  text-align: left;
+  padding:10px;
+  height:400px;
+  width: 1107px;
+  
+}
+.box1 {
+  display: flex;
+  width: 300px;
+  height: 300px;
+  padding-top: ; 
+  margin: 0 150px;
+} 
+.tables {
+  display: flex;
+  width: 200px;
+  height: 200px;
+
+
+} 
+#box2 {
+  display: flex;
+  width: 300px;
+  height: 300px;
+  margin: 0 150px;
+}
